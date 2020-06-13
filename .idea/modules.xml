@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CriandoCodigos.iml" filepath="$PROJECT_DIR$/.idea/CriandoCodigos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CursoPythonUdemy/.idea/CursoPythonUdemy.iml" filepath="$PROJECT_DIR$/../CursoPythonUdemy/.idea/CursoPythonUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CursoemVideo/.idea/CursoemVideo.iml" filepath="$PROJECT_DIR$/../CursoemVideo/.idea/CursoemVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonExercicios/.idea/PythonExercicios.iml" filepath="$PROJECT_DIR$/../PythonExercicios/.idea/PythonExercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QrCode/.idea/QrCode.iml" filepath="$PROJECT_DIR$/../QrCode/.idea/QrCode.iml" />
+    </modules>
+  </component>
+</project>

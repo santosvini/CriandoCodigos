@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="808d58d4-ebe5-4ac7-859e-f86d3aec803c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CriandoCodigos" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGlMFX8xb9PlnXnWQOnmZPWLVa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.ex049">
+    <configuration name="Imposto_Renda" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CriandoCodigos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imposto_Renda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonExercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonExercicios/ex009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex030" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonExercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonExercicios/ex030.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonExercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonExercicios/ex040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonExercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonExercicios/ex048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonExercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonExercicios/ex049.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Imposto_Renda" />
+      <item itemvalue="Python.ex009" />
+      <item itemvalue="Python.ex030" />
+      <item itemvalue="Python.ex040" />
+      <item itemvalue="Python.ex048" />
+      <item itemvalue="Python.ex049" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex049" />
+        <item itemvalue="Python.ex009" />
+        <item itemvalue="Python.ex048" />
+        <item itemvalue="Python.ex030" />
+        <item itemvalue="Python.ex040" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808d58d4-ebe5-4ac7-859e-f86d3aec803c" name="Default Changelist" comment="" />
+      <created>1584473261700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584473261700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1198" y="74" key="#Inspections" timestamp="1585332974738">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-1198" y="74" key="#Inspections/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585332974738" />
+    <state x="550" y="26" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1584474668852" />
+    <state x="-1247" y="54" key="#Menus_and_Toolbars" timestamp="1585333333182">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-1247" y="54" key="#Menus_and_Toolbars/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585333333182" />
+    <state x="-1151" y="-29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585332959047">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-1151" y="-29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585332959047" />
+    <state x="274" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584474724648" />
+    <state x="732" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585430654427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="732" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585430654427" />
+    <state x="-1204" y="94" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1585333129761">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-1204" y="94" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585333129761" />
+    <state x="-698" y="63" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585182138412">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-698" y="63" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585182138412" />
+    <state x="704" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1584627084599" />
+    <state x="-940" y="130" key="FileChooserDialogImpl" timestamp="1585333580307">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-940" y="130" key="FileChooserDialogImpl/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585333580307" />
+    <state width="696" height="307" key="GridCell.Tab.0.bottom" timestamp="1585357946951">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state width="696" height="307" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585357946951" />
+    <state width="1345" height="547" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584976971293" />
+    <state width="696" height="307" key="GridCell.Tab.0.center" timestamp="1585357946950">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state width="696" height="307" key="GridCell.Tab.0.center/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585357946950" />
+    <state width="1345" height="547" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584976971293" />
+    <state width="696" height="307" key="GridCell.Tab.0.left" timestamp="1585357946950">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state width="696" height="307" key="GridCell.Tab.0.left/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585357946950" />
+    <state width="1345" height="547" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584976971291" />
+    <state width="696" height="307" key="GridCell.Tab.0.right" timestamp="1585357946951">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state width="696" height="307" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585357946951" />
+    <state width="1345" height="547" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584976971293" />
+    <state x="-1219" y="17" key="SettingsEditor" timestamp="1585343576152">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-1219" y="17" key="SettingsEditor/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585343576152" />
+    <state x="-959" y="335" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1585333294853">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-959" y="335" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585333294853" />
+    <state x="721" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585430616712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-680" y="167" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585332839459" />
+    <state x="721" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1440.-55.1440.860@0.0.1366.728" timestamp="1585179821667" />
+    <state x="721" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585430616712" />
+    <state x="659" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584920516366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="659" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1584920516366" />
+    <state x="-7" y="0" width="697" height="735" maximized="true" key="dock-window-1" timestamp="1585430465859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-7" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585336057308" />
+    <state x="-7" y="0" width="697" height="735" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1585430465859" />
+    <state x="-716" y="3" width="709" height="801" key="search.everywhere.popup" timestamp="1585333035977">
+      <screen x="-1440" y="-55" width="1440" height="860" />
+    </state>
+    <state x="-716" y="3" width="709" height="801" key="search.everywhere.popup/0.0.1366.728/-1440.-55.1440.860@-1440.-55.1440.860" timestamp="1585333035977" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584904174295" />
+  </component>
+</project>
